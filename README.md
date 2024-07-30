@@ -1,0 +1,4 @@
+# FullStack Social Media App for Competitive Programmers!!
+
+Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
+
